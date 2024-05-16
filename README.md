@@ -37,7 +37,6 @@ This project implements a simple and efficient To-Do List application using HTML
 4. **Mark a task as completed:**
     - Click the checkbox next to the task to mark it as completed. Completed tasks will be visually distinguished (e.g., with a strikethrough or different color).
 
-## Project Structure
 
 ## Contributing
 
