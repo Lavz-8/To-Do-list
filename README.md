@@ -6,7 +6,6 @@ This project implements a simple and efficient To-Do List application using HTML
 ## Features
 - **Add Tasks**: Users can add new tasks to their to-do list.
 - **Delete Tasks**: Users can delete tasks that are no longer needed.
-- **Mark as Completed**: Users can mark tasks as completed, helping them keep track of their progress.
 - **Persistent Storage**: Tasks are saved in the browser's local storage, so they persist even after the page is refreshed.
 
 ## Installation
