@@ -33,9 +33,6 @@ This project implements a simple and efficient To-Do List application using HTML
 3. **Delete a task:**
     - Click the delete button (usually represented by a trash can icon) next to the task you want to remove.
 
-4. **Mark a task as completed:**
-    - Click the checkbox next to the task to mark it as completed. Completed tasks will be visually distinguished (e.g., with a strikethrough or different color).
-
 
 ## Contributing
 
