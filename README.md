@@ -13,7 +13,7 @@ This project implements a simple and efficient To-Do List application using HTML
 1. **Clone this repository to your local machine:**
 
     ```bash
-    git clone https://github.com/yourusername/todo-list-app.git
+    git clone https://github.com/Lavz-8/todo-list-app.git
     ```
 
 2. **Navigate to the project directory:**
@@ -37,3 +37,6 @@ This project implements a simple and efficient To-Do List application using HTML
 ## Contributing
 
 Contributions are welcome! Feel free to open issues or submit pull requests.
+
+## Credits
+This game was created by **Lavanya Varadharajan**.
