@@ -39,4 +39,4 @@ This project implements a simple and efficient To-Do List application using HTML
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
 ## Credits
-This game was created by **Lavanya Varadharajan**.
+This To-Do list was created by **Lavanya Varadharajan**.
