@@ -33,6 +33,9 @@ This project implements a simple and efficient To-Do List application using HTML
 3. **Delete a task:**
     - Click the delete button (usually represented by a trash can icon) next to the task you want to remove.
 
+## Output
+![todo_list](https://github.com/Lavz-8/To-Do-list/assets/145861363/f4bb55de-ec06-4726-9c03-ca705745d80e)
+![todo](https://github.com/Lavz-8/To-Do-list/assets/145861363/bc2d673c-9556-41af-ac54-c3914de9726f)
 
 ## Contributing
 
